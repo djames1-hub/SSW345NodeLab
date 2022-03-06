@@ -1,0 +1,3 @@
+# Results
+
+This lab guided me through creating a REST API using express and other node modules. I was introduced to concepts such as server, port numbers, and middleware. I went through the lab using mostly curl to print out the results. Creating a router to manage request was also very simple using express. I was able add a developer named bobby_light from the static webpage. I did not have any issues with the Node environment because of prior use of Node.
